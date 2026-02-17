@@ -1,5 +1,3 @@
-Here is your **README.md format** structured professionally for GitHub 👇
-
 ---
 
 # 📌 Multi-Spring Mass Static Equilibrium
