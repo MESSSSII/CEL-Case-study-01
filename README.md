@@ -1,3 +1,5 @@
+
+
 ---
 
 # 📌 Multi-Spring Mass Static Equilibrium
@@ -158,8 +160,6 @@ The simulation confirms **Simple Harmonic Motion (SHM)** behavior.
 ## 📈 Output Graph
 
 The displacement vs time graph shows a cosine waveform confirming oscillatory motion.
-<img width="1078" height="816" alt="image" src="https://github.com/user-attachments/assets/e10d1de7-bf15-44a2-8f67-8399f590653e" />
-
 
 ---
 
@@ -169,3 +169,8 @@ The displacement vs time graph shows a cosine waveform confirming oscillatory mo
 * Increasing stiffness increases natural frequency.
 * The system oscillates with a time period of **~0.63 seconds**.
 * MATLAB simulation validates the analytical solution.
+
+---
+
+
+If you want, I can also make a **more advanced GitHub README** with badges, LaTeX equations rendering, and project structure formatting.
