@@ -1,0 +1,32 @@
+#Code
+
+clc;
+clear;
+close all;
+
+k = 2;     
+m = 0.08;  
+keff = 4*k;
+omega = sqrt(keff/m);
+
+T = 2*pi/omega;
+
+disp('Dynamic Analysis Results')
+disp('------------------------')
+disp(['Effective stiffness (N/m): ', num2str(keff)])
+disp(['Natural frequency (rad/s): ', num2str(omega)])
+disp(['Time period (s): ', num2str(T)])
+
+t = linspace(0, 2, 1000);
+A = 0.05;
+x = A*cos(omega*t);
+
+figure;
+plot(t, x, 'LineWidth', 2)
+xlabel('Time (s)')
+ylabel('Displacement (m)')
+title('Oscillation of Multi-Spring Mass System')
+grid on
+
+saveas(gcf,'multi_spring_output.png')
+
