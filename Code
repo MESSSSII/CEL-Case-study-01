@@ -1,8 +1,5 @@
 #Code
 
-## 💻 MATLAB Implementation
-
-```matlab
 clc;
 clear;
 close all;
@@ -30,8 +27,6 @@ xlabel('Time (s)')
 ylabel('Displacement (m)')
 title('Oscillation of Multi-Spring Mass System')
 grid on
-```
 
----
 
 
