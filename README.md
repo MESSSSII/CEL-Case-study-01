@@ -34,9 +34,9 @@ This project demonstrates the application of:
 
 ## 🧮 Problem Statement
 
-Three springs are connected in **parallel** to a mass **m**.
 <img width="566" height="563" alt="image" src="https://github.com/user-attachments/assets/52359894-d1dc-4a4d-a8a9-f5733709169c" />
 
+Three springs are connected in **parallel** to a mass **m**.
 Spring Constants:
 
 * Left Spring = k
@@ -161,6 +161,7 @@ The simulation confirms **Simple Harmonic Motion (SHM)** behavior.
 ## 📈 Output Graph
 
 The displacement vs time graph shows a cosine waveform confirming oscillatory motion.
+
 <img width="947" height="633" alt="image" src="https://github.com/user-attachments/assets/7fca7f03-843b-40e3-a926-ce448642224e" />
 
 ---
