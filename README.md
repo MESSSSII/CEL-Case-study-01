@@ -173,4 +173,3 @@ The displacement vs time graph shows a cosine waveform confirming oscillatory mo
 ---
 
 
-If you want, I can also make a **more advanced GitHub README** with badges, LaTeX equations rendering, and project structure formatting.
