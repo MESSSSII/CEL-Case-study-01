@@ -1,5 +1,6 @@
 #Code
 
+```matlab
 clc;
 clear;
 close all;
@@ -27,6 +28,7 @@ xlabel('Time (s)')
 ylabel('Displacement (m)')
 title('Oscillation of Multi-Spring Mass System')
 grid on
+```
 
-saveas(gcf,'multi_spring_output.png')
+---
 
